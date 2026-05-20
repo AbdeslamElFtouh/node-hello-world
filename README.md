@@ -6,7 +6,8 @@ Creiare la prima applicazione con NodeJs e inizializziamola con il comando:
 
 2) 
 Scrivere un file index.js che dovrà stampare nel terminale “Hello World”. 
-Provare ad eseguirlo dal terminale stesso usando i comandi di node base.
+Provare ad eseguirlo dal terminale stesso usando i comandi di node base:
+    node 'nomeDelFile.js'
 
 3) 
 Impostare uno script "start" in package.json, dopodichè lanciare lo script con il comando:
